@@ -11,3 +11,17 @@ Download jdk 8 for this lab because lambda only support java 8
 
 
 Api Gateway Integration Request the mapping template add application/json template
+
+
+## test
+
+### lambda test
+![test](1.png)
+
+
+### api gateway test
+![test](2.png)
+
+
+### deployed api link test
+![test](3.png)
